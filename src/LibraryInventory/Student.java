@@ -7,7 +7,7 @@ package LibraryInventory;
 
 /**
  *
- * @author scarlettpark
+ * @author armandodiaz
  */
 public class Student extends User {
     private String faculty;

@@ -7,7 +7,7 @@ package LibraryInventory;
 
 /**
  *
- * @author scarlettpark
+ * @author armandodiaz
  */
 import java.util.ArrayList;
 

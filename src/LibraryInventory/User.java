@@ -7,7 +7,7 @@ package LibraryInventory;
 
 /**
  *
- * @author scarlettpark
+ * @author armandodiaz
  */
 public class User {
     protected String name;

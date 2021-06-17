@@ -7,7 +7,7 @@ package LibraryInventory;
 
 /**
  *
- * @author scarlettpark
+ * @author armandodiaz
  */
 public class Librarian extends User{
     private String position;
